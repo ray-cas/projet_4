@@ -739,6 +739,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -780,7 +781,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1035,4 +1036,35 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+.btn-d{
+    color: #FFFFFF!important;
+}
+.black ,.icon-md{
+    color: #000000!important;
+}
+.bloc__title-h2{
+    max-width: 62rem;
+    margin: auto;
+}
+.citation{
+    font-size: 18px;
+    max-width: 51rem;
+    margin: auto;
+}
+.citation>span{
+    font-weight: bold;
+    font-style: italic;
+
+}
+.portfolio__title-h2{
+    max-width: 42rem;
+    margin:auto;
+}
+.img-responsive{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
 }
